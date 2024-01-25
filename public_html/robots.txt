@@ -1,0 +1,7 @@
+sitemap:
+https://skitsolution.com/sitemap.xml,
+https://skitsolution.com/2020/08/
+https://skitsolution.com/akcii-gugl-google/
+https://skitsolution.com/design/
+https://skitsolution.com/category/logistics-company/
+https://skitsolution.com/feed/
